@@ -38,7 +38,7 @@ Here are some resources to get you started:
 Our team consists of dedicated students from diverse backgrounds, all united by a common interest in ML, DS, and DL. 
 
 - **President**: 
-- **Vice President**: 
+- **Project Manager**: 
 - **Technical Head**: 
 - **Student Representative**: 
 - **Technical Content Head**:
