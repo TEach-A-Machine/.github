@@ -15,8 +15,6 @@
 ## Professors and Advisors
 We are fortunate to have the guidance and support of esteemed professors and industry experts who help us navigate the complexities of ML, DS, and DL.
 
-![Professors](https://media.giphy.com/media/3o7aCV4yEBEalTqBCU/giphy.gif)
-
 ## Contribution Guidelines
 We welcome contributions from anyone passionate about ML, DS, and DL. Here’s how you can get involved:
 1. **Join Our Meetings**: Attend our weekly meetings and workshops.
@@ -30,13 +28,11 @@ Here are some resources to get you started:
 - 📂 [Project Repository](#): Explore our projects and contribute.
 - 🌐 [Website](#): Visit our official website for more information.
 
-![Resources](https://media.giphy.com/media/l0HlymJ53kd8wciFO/giphy.gif)
 
 ## Fun Facts
 - 🍿 **Favorite Snack**: We love popcorn during coding marathons!
 - 🌟 **Motto**: "Mighty things can be done with the power of ML!"
 
-![Popcorn](https://media.giphy.com/media/3o6Zt8zdgI2lIVk32k/giphy.gif)
 
 ## Meet the Team
 Our team consists of dedicated students from diverse backgrounds, all united by a common interest in ML, DS, and DL. 
